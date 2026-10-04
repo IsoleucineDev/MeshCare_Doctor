@@ -1,0 +1,10 @@
+{
+  "description": "Streamline patient case management for busy doctors with an intuitive interface, voice recording, and quick access to essential information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
